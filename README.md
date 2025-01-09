@@ -1,6 +1,8 @@
 # UE5-InventoryTemplate
 UE5 Inventory System Template For Unreal Engine 5.3
 
-Replicated for multiplayer!
+Replicated for multiplayer.
+
+Migation to another project is possible and works.
 
 [https://discord.gg/Uf8Q8usSmk](https://discord.gg/Uf8Q8usSmk)
