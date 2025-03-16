@@ -1,5 +1,5 @@
 # UE5-InventoryTemplate
-UE5 Inventory System Template For Unreal Engine 5.3
+UE5 Inventory System Template For Unreal Engine 5.3 - Also tested and works on UE5.5
 
 Replicated for multiplayer.
 
