@@ -4,7 +4,3 @@ UE5 Inventory System Template For Unreal Engine 5.3 - Also tested and works on U
 Replicated for multiplayer.
 
 Migration to another project is possible and works fine, All you need to do is replace a few MasterCharacter_BP cast to's with your own player character & add the inventory system component to your own character.
-
-[https://discord.gg/Uf8Q8usSmk](https://discord.gg/Uf8Q8usSmk)
-
-Donation/Tips https://www.paypal.me/akumacreative
